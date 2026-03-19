@@ -102,7 +102,7 @@ Generates a weekly PDF report including:
 
 ## 🎥 Demo Video  
 
-[Click here to watch demo](https://your-video-link)
+[Click here to watch demo](https://youtu.be/NnOj7TezYzg)
 
 ---
 
