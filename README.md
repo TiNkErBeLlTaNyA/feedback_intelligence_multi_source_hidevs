@@ -110,6 +110,8 @@ Generates a weekly PDF report including:
 
 ![Dashboard](dashboard.png)
 
+*Figure:*
+
 
 ---
 
