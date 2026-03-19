@@ -106,7 +106,7 @@ Generates a weekly PDF report including:
 
 ![Dashboard](dashboard_1.png)
 
-![Dashboard](negative _insights.png)
+![Dashboard](negative_insights.png)
 
 ![Dashboard](api.png)
 
