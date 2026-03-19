@@ -102,6 +102,13 @@ Generates a weekly PDF report including:
 
 ## Dashboard Screenshots
 
+![Dashboard](dashboard.png)
+
+![Dashboard](dashboard_1.png)
+
+![Dashboard](negative_insights.png)
+
+![Dashboard](api.png)
 
 ---
 
